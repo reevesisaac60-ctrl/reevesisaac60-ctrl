@@ -1,4 +1,4 @@
-# `> Hello, world!`
+# `If you read this you are one: 01001110 01100101 01110010 01100100 00100001`
 
 <h1 align="center">ISAAC REEVES</h1>
 
@@ -27,10 +27,8 @@ My interests include systems programming, game development, operating systems, g
 
 | Project | Description |
 |:---|:---|
-| **Pebble** | A game development platform with its own language, editor and runtime. |
-| **Revolux** | An independent Linux-based operating system project. |
-| **PRESSURE** | A surreal, fast-paced first-person shooter. |
-| **Forge** | An experimental local coding AI and machine learning project. |
+| **Pebble** | My very own coding language built in C++. |
+| **PRESSURE** | A freaking super tuff FPS game! |
 
 ### `$ cat tech-stack`
 
