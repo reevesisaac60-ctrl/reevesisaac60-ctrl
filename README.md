@@ -82,7 +82,4 @@ My interests include systems programming, game development, operating systems, g
 </p>
 
 ---
-
-<p align="center">
-  <sub>Building things from the ground up.</sub>
 </p>
