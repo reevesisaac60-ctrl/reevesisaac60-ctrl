@@ -1,7 +1,5 @@
 # `If you read this you are one: 01001110 01100101 01110010 01100100 00100001`
 
-<h1 align="center">ISAAC REEVES</h1>
-
 <p align="center">
   <strong>System Dev· Game Dev</strong>
 </p>
