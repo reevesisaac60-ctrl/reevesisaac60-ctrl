@@ -1,12 +1,13 @@
 # `If you read this you are one: 01001110 01100101 01110010 01100100 00100001`
 
 <p align="center">
-  <strong>System Dev· Game Dev</strong>
+  <strong>System Dev · Game Dev</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -15,7 +16,7 @@
 
 ### `$ whoami`
 
-I am interested in coding, game development or just anything like linux or making things from scratch!
+I am interested in coding, game development or just anything like Linux or making things from scratch!
 
 ### `$ ls ./projects`
 
@@ -31,7 +32,7 @@ I am interested in coding, game development or just anything like linux or makin
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-111111?style=flat-square&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-111111?style=flat-square&logo=godotengine&logoColor=white" />
 </p>
 
@@ -74,4 +75,3 @@ I am interested in coding, game development or just anything like linux or makin
 </p>
 
 ---
-</p>
