@@ -3,7 +3,7 @@
 <h1 align="center">ISAAC REEVES</h1>
 
 <p align="center">
-  <strong>Independent Developer · Systems Programmer · Game Developer</strong>
+  <strong>System Dev· Game Dev</strong>
 </p>
 
 <p align="center">
@@ -17,11 +17,7 @@
 
 ### `$ whoami`
 
-I'm an independent developer interested in building software from the ground up.
-
-I enjoy working on ambitious projects, exploring low-level systems, designing programming languages and creating interactive experiences.
-
-My interests include systems programming, game development, operating systems, graphics programming and artificial intelligence.
+I am interested in coding, game development or just anything like linux or making things from scratch!
 
 ### `$ ls ./projects`
 
@@ -41,7 +37,7 @@ My interests include systems programming, game development, operating systems, g
   <img src="https://img.shields.io/badge/GDScript-111111?style=flat-square&logo=godotengine&logoColor=white" />
 </p>
 
-**Frameworks & Technologies**
+**Frameworks:**
 
 <p>
   <img src="https://img.shields.io/badge/Qt-111111?style=flat-square&logo=qt&logoColor=white" />
@@ -51,7 +47,7 @@ My interests include systems programming, game development, operating systems, g
   <img src="https://img.shields.io/badge/CMake-111111?style=flat-square&logo=cmake&logoColor=white" />
 </p>
 
-**Environment & Tools**
+**Tools:**
 
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-111111?style=flat-square&logo=archlinux&logoColor=white" />
